@@ -1,0 +1,15 @@
+/* styles.css */
+
+/* Styling for the main container */
+.container {
+    text-align: center;
+  }
+  
+  /* Styling for the text with success color */
+  .text-Black {
+    color: black;
+    font-size: 3.5em;
+    text-decoration: underline;
+    /* Add any other styles you want */
+  }
+  
